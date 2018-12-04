@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Information</title>
+<style> body {background-color:#4169e1;}
+<style type="text/css">
+/* styles go here */
+td, th  { border:1px solid #CCC;  }
+table  {border:  1px solid black;  }
+h1 {
+	color: white;
+	border-bottom: 2px solid blue;
+}
+
+h2 {
+	color: white;
+	margin-left: 100px;
+}
+
+p {
+	font-size: small;
+	font-family: sans-serif;
+	margin-left: 100px;
+        color: white;
+}
+
+h2 {
+	color: white;
+	margin-left: 100px;
+}
+
+
+li {
+	color: white;
+	margin-left: 100px;
+}
+
+ol {
+	color: white;
+	margin-left: 100px;
+}
+
+dd {
+     color: white;
+     margin-left: 10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Food For Homeless</h1>
+<nav>
+<ul>
+<li><a href="info.html"/>Info</a></li>
+<li><a href="food.html"/>Food</a></li>
+<li><a href="help.html"/>Help</a></li>
+</ul>
+
+</nav>
+
+</header>
+
+<article>
+<header>
+
+</header>
+
+
+<section id="webhome">
+<h3>Information</h3>
+<dl>
+<table>
+<tr><th>
+<td>Location is 123 Red Road, Virginia.Donations are excepted. Just drop them off in the donation bin located in the back of the building. See above for our hours.</th></td>
+</tr>
+<p>Hours:
+Monday-Thursday 8am-8pm</p>
+<p>Friday-Sunday 8am-9pm
+</p>
+
+
+</dl>
+</selection>
+
+
+
+</section>
+</article>
+
+<article>
+
+<h2><img src="Info.png" alt="Info"></h2>
+</article>
+
+
+</body>
+</html>
