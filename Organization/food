@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Black Goose Bistro: Blog</title>
+<style> body {background-color:#4169e1;}
+<style type="text/css">
+/* styles go here */
+td, th  { border:1px solid #CCC;  }
+table  {border:  1px solid black;  }
+h1 {
+	color: white;
+	border-bottom: 2px solid blue;
+}
+
+h2 {
+	color: white;
+	margin-left: 100px;
+}
+
+p {
+	font-size: small;
+	font-family: sans-serif;
+	margin-left: 100px;
+        color: white;
+}
+
+h2 {
+	color: white;
+	margin-left: 100px;
+}
+
+
+li {
+	color: white;
+	margin-left: 100px;
+}
+
+ol {
+	color: white;
+	margin-left: 100px;
+}
+
+dd {
+     color: white;
+     margin-left: 10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Food For Homeless</h1>
+<nav>
+<ul>
+<li><a href="info.html"/>Info</a></li>
+<li><a href="food.html"/>Food</a></li>
+<li><a href="help.html"/>Help</a></li>
+</ul>
+
+</nav>
+
+</header>
+
+<article>
+<header>
+
+</header>
+
+
+<section id="webhome">
+<h3>Food</h3>
+<table>
+<tr><th>
+<td>Using donations and buying from local farmers, we are able to make food with the freshest ingredients locally. From fruits to vegetables, we make different meals every day.Once the food is done being prepared, people come in and take the food. All pole that help us with the cooking, serving, and distributing afterwords are all volunteers from the area and sometimes when we partner up with other organizations for events. Once it clears out we take the left overs to different spots around the city, giving it to other homeless and making them feel good.</th></td>
+</tr>
+</table>
+
+</dl>
+</selection>
+
+
+
+</section>
+</article>
+
+<article>
+
+<h2><img src="food.jpg" alt="Food"></h2>
+</article>
+
+
+</body>
+</html>
